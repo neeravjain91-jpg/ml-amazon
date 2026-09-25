@@ -1,0 +1,11 @@
+metric,benchmark_v3_k120,integrated_production_v3_k120,delta,status
+candidate_recall_micro,73.5784%,73.5784%,+0.0000%,PASS
+candidate_recall_us,79.1943%,79.1943%,-0.0000%,PASS
+candidate_recall_india,65.5431%,65.5431%,+0.0000%,PASS
+precision,0.88197,0.88197,+0.00000,PASS
+recall,0.64647,0.64647,+0.00000,PASS
+macro_f05,0.80048,0.80048,+0.00000,PASS
+us_f05,0.86485,0.86485,+0.00000,PASS
+india_f05,0.70883,0.70883,+0.00000,PASS
+singleton_accuracy,0.87919,0.87919,+0.00000,PASS
+multi_match_f05,0.80576,0.80576,+0.00000,PASS

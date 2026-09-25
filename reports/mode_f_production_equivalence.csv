@@ -1,0 +1,12 @@
+metric,measured_production,expected_mode_f,diff
+macro_f05,0.81745,0.81745,0.00000
+precision,0.89121,0.89121,0.00000
+recall,0.67336,0.67336,0.00000
+cand_recall,75.25,75.25,0.0000
+us_f05,0.88366,0.88366,0.00000
+india_f05,0.72320,0.72320,0.00000
+singleton_acc,0.88926,0.88926,0.00000
+multi_f05,0.82427,0.82427,0.00000
+cand_set_match_pct,100.00,100.00,0.00
+cleaning_reproducible,YES,YES,0
+frozen_fallback_unchanged,YES,YES,0

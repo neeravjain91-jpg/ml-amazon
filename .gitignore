@@ -8,6 +8,9 @@ dataset/
 student_resource/
 *.zip
 __MACOSX/
+data/clean/
+*.parquet
+scratch/
 
 # Large Output TSVs (> 100MB)
 output/*.tsv

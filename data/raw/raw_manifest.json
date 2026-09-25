@@ -1,0 +1,94 @@
+{
+  "raw_layer_timestamp": "2026-09-25",
+  "files": {
+    "train_source1": {
+      "source_path": "dataset/train/train_source1.tsv",
+      "size_bytes": 210069713,
+      "total_lines": 2206822,
+      "record_count": 2206821,
+      "columns": [
+        "entity_id",
+        "business_name",
+        "business_address",
+        "country"
+      ],
+      "status": "IMMUTABLE_ORIGINAL"
+    },
+    "train_source2": {
+      "source_path": "dataset/train/train_source2.tsv",
+      "size_bytes": 489301488,
+      "total_lines": 5034617,
+      "record_count": 5034616,
+      "columns": [
+        "entity_id",
+        "business_name",
+        "business_address",
+        "country"
+      ],
+      "status": "IMMUTABLE_ORIGINAL"
+    },
+    "train_source3": {
+      "source_path": "dataset/train/train_source3.tsv",
+      "size_bytes": 503705637,
+      "total_lines": 5285604,
+      "record_count": 5285603,
+      "columns": [
+        "entity_id",
+        "business_name",
+        "business_address",
+        "country"
+      ],
+      "status": "IMMUTABLE_ORIGINAL"
+    },
+    "train_ground_truth": {
+      "source_path": "dataset/train/train_ground_truth.tsv",
+      "size_bytes": 127015583,
+      "total_lines": 2206822,
+      "record_count": 2206821,
+      "columns": [
+        "source1_entity_id",
+        "matched_entity_ids"
+      ],
+      "status": "IMMUTABLE_ORIGINAL"
+    },
+    "test_source1": {
+      "source_path": "dataset/test/test_source1.tsv",
+      "size_bytes": 175022086,
+      "total_lines": 1732545,
+      "record_count": 1732544,
+      "columns": [
+        "entity_id",
+        "business_name",
+        "business_address",
+        "country"
+      ],
+      "status": "IMMUTABLE_ORIGINAL"
+    },
+    "test_source2": {
+      "source_path": "dataset/test/test_source2.tsv",
+      "size_bytes": 509456422,
+      "total_lines": 4887274,
+      "record_count": 4887273,
+      "columns": [
+        "entity_id",
+        "business_name",
+        "business_address",
+        "country"
+      ],
+      "status": "IMMUTABLE_ORIGINAL"
+    },
+    "test_source3": {
+      "source_path": "dataset/test/test_source3.tsv",
+      "size_bytes": 506002772,
+      "total_lines": 5082317,
+      "record_count": 5082316,
+      "columns": [
+        "entity_id",
+        "business_name",
+        "business_address",
+        "country"
+      ],
+      "status": "IMMUTABLE_ORIGINAL"
+    }
+  }
+}
