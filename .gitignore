@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets & Archives (> 100MB rejected by GitHub)
+dataset/
+student_resource/
+*.zip
+__MACOSX/
+
+# Large Output TSVs (> 100MB)
+output/*.tsv
+output/remaining_*.tsv
+
+# Logs & System artifacts
+*.log
+.system_generated/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
